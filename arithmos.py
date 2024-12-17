@@ -1,9 +1,11 @@
-#Άσκηση 3
+#β€™ΟƒΞΊΞ·ΟƒΞ· 3
 
-number = int(input ("Δώσε έναν ακέραιο αριθμό: "))
+number = int(input ("Ξ”ΟΟƒΞµ Ξ­Ξ½Ξ±Ξ½ Ξ±ΞΊΞ­ΟΞ±ΞΉΞΏ Ξ±ΟΞΉΞΈΞΌΟ: "))
 
 prohgoumenos = number - 1
 epomenos = number + 1
 
-print "Ο προηγούμενός του είναι " , prohgoumenos
-print "Ο επόμενός του είναι " , epomenos
+print "Ξ Ο€ΟΞΏΞ·Ξ³ΞΏΟΞΌΞµΞ½ΟΟ‚ Ο„ΞΏΟ… ΞµΞ―Ξ½Ξ±ΞΉ " , prohgoumenos
+print "Ξ ΞµΟ€ΟΞΌΞµΞ½ΟΟ‚ Ο„ΞΏΟ… ΞµΞ―Ξ½Ξ±ΞΉ " , epomenos
+
+#TEST
