@@ -1,6 +1,6 @@
 #’σκηση 3
 
-my_number = 3
+my_number = 69
 number = int(input ("Δώσε έναν ακέραιο αριθμό: "))
 
 prohgoumenos = number - 1
